@@ -41,7 +41,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU Lesser General Public License for more details.
 You should have received a copy of the GNU Lesser General Public License
-along with this program.  If not, see https://github.com/bhanuponguru/object_compresser/blob/master/LICENSE.html.
+along with this program.  If not, see https://github.com/bhanuponguru/object_compresser/blob/master/LICENSE.
 
 ## contact info
 email: bhanuponguru@gmail.com  
